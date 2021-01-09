@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "types": ["sketch-types", "cocoascript-types", "sketch-internal-types"]
+  },
+  "include": ["src"]
+}

@@ -21,7 +21,8 @@
     "postinstall": "npm run build && skpm-link"
   },
   "devDependencies": {
-    "@skpm/builder": "^0.7.0"
+    "@skpm/builder": "^0.7.0",
+    "sketch-types": "^0.4.3"
   },
   "author": "dum3ng <dumeng81@outlook.com>"
 }
